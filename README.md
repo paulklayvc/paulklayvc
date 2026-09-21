@@ -16,8 +16,8 @@ Works with Claude Code, Codex, Cursor and 70+ other agents. New skills ship alon
 
 ## What I'm working on
 
-- **[Mr. Freeman](https://www.youtube.com/@mf0)** — cofounder. A 16-year-old IP with 3M+ fans across platforms, backed by 1inch, Base and SQD.
-- **[mf0.store](https://mf0.store)** — built with Mr. Freeman and QIWI Group: crypto cards, VPN, eSIM, anonymous numbers. $500K book presale, $300K+ in stickers.
+- **[Mr. Freeman](https://www.youtube.com/@mf0)** — cofounder & CEO of Digital Direction. A 16-year-old IP with 3M+ fans across platforms, backed by 1inch and SQD.
+- **[mf0.store](https://mf0.store)** — built with Mr. Freeman and QIWI Group: crypto cards, VPN, eSIM, anonymous numbers. $500K book presale, $250K+ in stickers.
 - **AI direction** for Arnold Schwarzenegger, Marshmello, Oleksandr Usyk, Chef Rush and others.
 - **[Begin Capital](https://www.begin.capital)** — Venture Partner.
 
