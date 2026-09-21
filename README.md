@@ -1,8 +1,8 @@
 # Paul Klay
 
-Venture Partner at Begin Capital. I build viral consumer products and run AI for people with very large audiences.
+Venture Partner at Begin Capital. I build viral consumer products and AI products for people with large audiences.
 
-I publish the playbooks I actually use as open agent skills. They live here.
+Sharing the playbooks I actually use as open agent skills. You can find them here.
 
 ## Skills
 
