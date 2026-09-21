@@ -23,6 +23,4 @@ Works with Claude Code, Codex, Cursor and 70+ other agents. New skills ship alon
 
 Before this: a perp exchange, a Telegram mini app that reached 10M users, and one of the largest AMA media outlets on X. $2M+ raised across projects.
 
-## Elsewhere
-
-- **[@PaulKlayVC](https://x.com/PaulKlayVC)** — essays on VC, AI and solo founders
+**[@PaulKlayVC](https://x.com/PaulKlayVC)** — essays on VC, AI and solo founders
